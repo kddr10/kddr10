@@ -14,6 +14,7 @@
 ![icon4](https://user-images.githubusercontent.com/67548554/124062603-5e7feb80-da07-11eb-9c96-acd07305b5ad.png)
 ![icon5](https://user-images.githubusercontent.com/67548554/124062604-5f188200-da07-11eb-88ef-6d6babf92952.png)
 ![icon6](https://user-images.githubusercontent.com/67548554/124062605-5f188200-da07-11eb-98d2-be270c23b6bf.png)
+![icon7](https://user-images.githubusercontent.com/67548554/124141311-b21e2380-da5f-11eb-9d54-bbecf1d386b1.png)
 
 
 🚀 Which technologies am I currently learning? Nowadays I'm diving into React Native and TypeScript!
