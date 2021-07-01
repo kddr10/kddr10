@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![giphy](https://user-images.githubusercontent.com/67548554/124060405-5de55600-da03-11eb-9fef-2a74adfb9851.gif)
+![giphy (1)](https://user-images.githubusercontent.com/67548554/124121445-47fb8380-da4b-11eb-92ef-c848bd22322d.gif)
 
 
 ❓ Who am I? My name is Kevin, but my nickname is Nano. I'm 30 years old and an accountant since 2016. But, what am I doing here? I recently discovered a new passion: coding. One of my best friends introduced it to me, and now I'm trying to get into this whole new world. I'm looking forward to meet new people from all over the world and work with them, cause I really enjoy teamwork.
